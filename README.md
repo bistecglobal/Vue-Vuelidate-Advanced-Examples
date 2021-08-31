@@ -1,4 +1,4 @@
-# vuelidate-spike
+# Vuelidate-Advanced-Examples
 
 > My stylish Nuxt.js project
 
