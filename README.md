@@ -1,6 +1,8 @@
 # Vuelidate-Advanced-Examples
 
 > My stylish Nuxt.js project
+> Overview
+    This project was built using [Vuelidate Error Extractor](https://www.npmjs.com/package/vuelidate-error-extractor).
 
 ## Build Setup
 
